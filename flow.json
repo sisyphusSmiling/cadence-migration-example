@@ -54,6 +54,13 @@
 		"emulator-account": {
 			"address": "f8d6e0586b0a20c7",
 			"key": "1a05ba433be5af2988e814d1e4fa08f1574140e6cb5649a861cc6377718c51be"
+		},
+		"example-nft-testnet": {
+			"address": "d704ee8202a0d82d",
+			"key": {
+				"type": "file",
+				"location": "example-nft-testnet.pkey"
+			}
 		}
 	},
 	"deployments": {
