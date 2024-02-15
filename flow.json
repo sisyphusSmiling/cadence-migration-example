@@ -71,6 +71,11 @@
 				"NFTForwarding",
 				"MetadataViews"
 			]
+		},
+		"testnet": {
+			"example-nft-testnet": [
+				"ExampleNFT"
+			]
 		}
 	}
 }
