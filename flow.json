@@ -3,7 +3,8 @@
 		"ExampleNFT": {
 			"source": "./contracts/ExampleNFT.cdc",
 			"aliases": {
-				"emulator": "f8d6e0586b0a20c7"
+				"emulator": "f8d6e0586b0a20c7",
+				"testnet": "d704ee8202a0d82d"
 			}
 		},
 		"FungibleToken": {
